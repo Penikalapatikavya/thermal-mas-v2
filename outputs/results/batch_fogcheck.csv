@@ -1,0 +1,2 @@
+claimed,comm_loss,end_t,fog,ghost_rescues,min_dist,path_m,people,policy,reached,robot_collisions,run_id,seed,sim_fault,success,time_all,walkin_collisions,wall_s
+4,0.0,108.4,0.09,0,0.23,50.5,4,rule,4,0,fogcheck_s1,1,False,True,102.408,1,111

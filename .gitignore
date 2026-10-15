@@ -1,0 +1,11 @@
+# large generated data (kept in Google Drive / backup zip)
+data/
+colab_upload/
+outputs/live_logs/
+outputs/batch_logs/
+outputs/results/invalid_fog_sweep/
+# system / temporary files
+__pycache__/
+*.pyc
+.DS_Store
+*.cache

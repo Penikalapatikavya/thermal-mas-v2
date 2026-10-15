@@ -1,0 +1,11 @@
+claimed,comm_loss,end_t,fog,ghost_rescues,min_dist,path_m,people,policy,reached,robot_collisions,run_id,seed,sim_fault,success,time_all,walkin_collisions,wall_s
+4,0.0,103.9,0.09,0,1.0,50.5,4,rule,4,0,fog_0.09_s1,1,False,True,102.408,0,140
+4,0.0,105.7,0.09,0,0.85,49.1,4,rule,4,0,fog_0.09_s2,2,False,True,104.2,0,145
+4,0.0,106.0,0.09,0,0.65,47.8,4,rule,4,0,fog_0.09_s3,3,False,True,100.872,0,148
+4,0.0,91.3,0.09,0,0.61,44.0,4,rule,4,0,fog_0.09_s4,4,False,True,88.84,0,129
+4,0.0,106.2,0.09,0,0.67,49.1,4,rule,4,0,fog_0.09_s5,5,False,True,103.944,0,153
+4,0.0,116.7,0.09,0,0.15,50.7,4,rule,4,0,fog_0.09_s6,6,False,True,113.672,3,164
+4,0.0,127.5,0.09,0,0.83,58.3,4,rule,4,0,fog_0.09_s7,7,False,True,96.52,0,180
+4,0.0,107.0,0.09,0,0.4,52.5,4,rule,4,0,fog_0.09_s8,8,False,True,104.456,1,155
+4,0.0,179.6,0.09,0,0.68,81.8,4,rule,4,0,fog_0.09_s9,9,False,True,108.04,0,252
+3,0.0,180.0,0.09,0,0.68,84.9,4,rule,4,0,fog_0.09_s10,10,False,True,101.128,0,257

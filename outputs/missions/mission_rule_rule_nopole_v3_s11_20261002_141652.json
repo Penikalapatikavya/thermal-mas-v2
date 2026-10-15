@@ -1,0 +1,51 @@
+{
+ "policy": "rule_based",
+ "uav_policy": "coverage",
+ "run_id": "rule_nopole_v3_s11",
+ "seed": 11,
+ "pole": false,
+ "conditions": {
+  "ambient_k": 280.6,
+  "fog": 0.0
+ },
+ "comm_loss": 0.0,
+ "end_t": 104.4,
+ "reason": "all expected people rescued",
+ "rescues": [
+  {
+   "t": 51.43,
+   "track_id": 12,
+   "xy": [
+    47.931103247443716,
+    -37.668418618019885
+   ]
+  },
+  {
+   "t": 64.62,
+   "track_id": 3,
+   "xy": [
+    44.401416260513564,
+    -44.07614734256283
+   ]
+  },
+  {
+   "t": 80.1,
+   "track_id": 4,
+   "xy": [
+    46.63726931805728,
+    -50.51828372656135
+   ]
+  },
+  {
+   "t": 104.4,
+   "track_id": 31,
+   "xy": [
+    37.809718758875576,
+    -49.79266701529809
+   ]
+  }
+ ],
+ "path_len_m": 50.219217125666276,
+ "sonar_near_misses": 0,
+ "perception_log": "/Users/kavyapenikalapati/thermal-mas-v2/outputs/live_logs/ugv_20261002_141527.jsonl"
+}
